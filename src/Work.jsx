@@ -5,6 +5,32 @@ export function Work() {
 
       <div className="work__container work__page container grid">
 
+<article className="work__card">
+          <a
+            href="https://rsharquitectura.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="work__link"
+          >
+            <img src="rsh.png" alt="" className="work__img" />
+            <i className="ri-arrow-right-circle-line work__icon"></i>
+          </a>
+
+          <h2 className="work__title">RSH Arquitectura y Diseño</h2>
+          <span className="work__subtitle">
+            Diseño y Creación de Página web para importante empresa de Arquitectura y Diseño de Interiores
+          </span>
+          <div className="icons-work">
+          <img src="html.png" alt="image" className="about__skills-img" />
+            <img src="css.png" alt="image" className="about__skills-img" />
+            <img
+              src="javascript.png"
+              alt="image"
+              className="about__skills-img"
+            />
+          </div>
+        </article>
+
       <article className="work__card">
           <a
             href="https://ceorperu.com"
@@ -181,33 +207,7 @@ export function Work() {
           </div>
         </article>
 
-        <article className="work__card">
-          <a
-            href="https://coraservi.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="work__link"
-          >
-            <img src="work7.png" alt="" className="work__img" />
-            <i className="ri-arrow-right-circle-line work__icon"></i>
-          </a>
-
-          <h2 className="work__title">
-            Coraservi
-          </h2>
-          <span className="work__subtitle">
-            Diseño y Creación de Sitio Web interactivo para empresa industrial
-          </span>
-          <div className="icons-work">
-            <img src="html.png" alt="image" className="about__skills-img" />
-            <img src="css.png" alt="image" className="about__skills-img" />
-            <img
-              src="javascript.png"
-              alt="image"
-              className="about__skills-img"
-            />
-          </div>
-        </article>
+       
 
         <article className="work__card">
           <a
