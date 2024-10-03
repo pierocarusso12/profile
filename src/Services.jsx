@@ -33,7 +33,7 @@ export function Services() {
             <h2 className="services__title">Páginas Web</h2>
 
             <p className="services__description">
-              Te ayudo a realizar Páginas web interactivas , amigables y
+              Te ayudo a realizar Páginas web interactivas , dinámicas,  amigables y
               modernas para el usuario
             </p>
 
@@ -71,8 +71,8 @@ export function Services() {
             <i className="ri-instance-line services__icon"></i>
             <h2 className="services__title">Aplicativos Web</h2>
             <p className="services__description">
-              Te ayudo a diseñar aplicativos web , interactivos , con velocidad
-              de carga y con amplios manejos de servicios
+              Te ayudo a diseñar aplicativos web , dinámicos , interactivos , con velocidad
+              de carga y con amplios manejos de servicios 
             </p>
 
             {/* <button className="services__button button">
@@ -108,7 +108,7 @@ export function Services() {
             <i className="ri-terminal-window-fill services__icon"></i>
             <h2 className="services__title">Aplicativos de Escritorio</h2>
             <p className="services__description">
-              Te ayudo a construir un aplicativo web escalable , interactivo y
+              Te ayudo a construir un aplicativo de escritorio escalable , moderno ,  interactivo y
               de forma profesional
             </p>
 
