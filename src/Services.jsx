@@ -71,8 +71,8 @@ export function Services() {
             <i className="ri-instance-line services__icon"></i>
             <h2 className="services__title">Aplicativos Web</h2>
             <p className="services__description">
-              Te ayudo a diseñar aplicativos web , dinámicos , interactivos , con velocidad
-              de carga y con amplios manejos de servicios 
+              Te ayudo a diseñar aplicativos web a medida, dinámicos , interactivos , con velocidad
+              de carga y con amplio manejo de servicios 
             </p>
 
             {/* <button className="services__button button">
