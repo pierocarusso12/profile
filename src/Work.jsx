@@ -5,6 +5,32 @@ export function Work() {
 
       <div className="work__container work__page container grid">
 
+ <article className="work__card">
+          <a
+            href="https://trujillolimpio.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="work__link"
+          >
+            <img src="work5.png" alt="" className="work__img" />
+            <i className="ri-arrow-right-circle-line work__icon"></i>
+          </a>
+
+          <h2 className="work__title">
+            Noticias Trujillo Limpio
+          </h2>
+          <span className="work__subtitle">
+            Diseño y Creación de Sitio Web con Blog Informativo para Noticias
+          </span>
+          <div className="icons-work">
+            <img
+              src="wordpress.png"
+              alt="image"
+              className="about__skills-img"
+            />
+          </div>
+        </article>
+
 <article className="work__card">
           <a
             href="https://rsharquitectura.com"
@@ -157,31 +183,7 @@ export function Work() {
           </div>
         </article>
 
-        <article className="work__card">
-          <a
-            href="https://trujillolimpio.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="work__link"
-          >
-            <img src="work5.png" alt="" className="work__img" />
-            <i className="ri-arrow-right-circle-line work__icon"></i>
-          </a>
-
-          <h2 className="work__title">
-            Noticias Trujillo Limpio
-          </h2>
-          <span className="work__subtitle">
-            Diseño y Creación de Sitio Web con Blog Informativo para Noticias
-          </span>
-          <div className="icons-work">
-            <img
-              src="wordpress.png"
-              alt="image"
-              className="about__skills-img"
-            />
-          </div>
-        </article>
+       
 
         <article className="work__card">
           <a
