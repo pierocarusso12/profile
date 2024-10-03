@@ -159,7 +159,7 @@ export function Work() {
 
         <article className="work__card">
           <a
-            href="https://acrovaestructuras.com/"
+            href="https://trujillolimpio.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="work__link"
@@ -169,10 +169,10 @@ export function Work() {
           </a>
 
           <h2 className="work__title">
-            Acrova Estructuras Metálicas
+            Noticias Trujillo Limpio
           </h2>
           <span className="work__subtitle">
-            Diseño y Creación de Sitio Web, publicación de servicios y materiales
+            Diseño y Creación de Sitio Web con Blog Informativo para Noticias
           </span>
           <div className="icons-work">
             <img
